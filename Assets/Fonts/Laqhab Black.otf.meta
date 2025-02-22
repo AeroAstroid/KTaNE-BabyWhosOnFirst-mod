@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8a25563a5b545734ab76aa1f63912536
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: '!F Laqhab Black'
+  fontNames:
+  - '!F Laqhab Black'
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01c04002ad03030408d641cf0a03971e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
